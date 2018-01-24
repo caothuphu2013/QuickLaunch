@@ -1,0 +1,3 @@
+EXPORTS
+_doInstallHookKeyBoard @1
+_doRemoveHookKeyBoard @2
